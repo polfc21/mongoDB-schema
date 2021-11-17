@@ -1,0 +1,32 @@
+{
+	"_id": 1,
+	"username": "polfc21",
+	"email": "polfarreny@gmail.com",
+	"password": "pass123",
+	"birth_date": "17/02/1997",
+	"gender": "Home",
+	"country": "Espanya",
+	"zipcode": "08780",
+	"videos": [1,2]
+}
+{
+	"_id": 2,
+	"username": "cub342",
+	"email": "cub342@gmail.com",
+	"password": "cub123",
+	"birth_date": "21/09/1980",
+	"gender": "Dona",
+	"country": "Cuba",
+	"zipcode": "99980",
+	"videos": [3]
+}
+{
+	"_id": 3,
+	"username": "mery3",
+	"email": "meryam3@gmail.com",
+	"password": "mery123",
+	"birth_date": "31/12/1977",
+	"gender": "Dona",
+	"country": "Anglaterra",
+	"zipcode": "12280"
+}

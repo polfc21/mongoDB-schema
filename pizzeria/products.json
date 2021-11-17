@@ -1,0 +1,32 @@
+{
+	"_id": 1,
+	"name": "Diavola",
+	"type": "pizza",
+	"description": "pizza picant", 
+	"image": "/images/pizzaDiavola.jpg",
+	"price": 11.99
+}
+{
+	"_id": 2,
+	"name": "Coca-cola",
+	"type": "beguda",
+	"description": "beguda amb gas", 
+	"image": "/images/cocacola.jpg",
+	"price": 0.99
+}
+{
+	"_id": 3,
+	 "name": "Burrikin",
+	 "type": "hamburguesa",
+	 "description": "hamburguesa doble", 
+	 "image": "/images/hamburguesaBurrikin.jpg",
+	 "price": 8.99
+}
+{
+	"_id": 4,
+	 "name": "Aigua Veri",
+	 "type": "beguda",
+	 "description": "aigua sense gas", 
+	 "image": "/images/aiguaVeri.jpg",
+	 "price": 0.69
+}

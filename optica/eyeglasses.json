@@ -1,0 +1,22 @@
+{
+	  "_id": 1,
+	  "brand": 1,
+	  "diopters": 
+	  	{"leftEye": 0.75, 
+	  	 "rightEye": 0.25 
+	  	}, 
+	  "material": "pasta",
+	  "color": "blau",
+	  "price": 55.99
+}
+{
+	 "_id": 2,
+	  "brand": 2,
+	  "diopters": 
+	  	{"leftEye": 1.75, 
+	  	 "rightEye": 1.25 
+	  	}, 
+          "material": "metal",
+          "color": "gris",
+          "price": 25.99
+}

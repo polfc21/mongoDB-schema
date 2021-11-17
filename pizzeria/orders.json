@@ -1,0 +1,30 @@
+{
+	"_id": 1,
+	"shop": 1,
+	"$date": 1393804800000,
+	"delivery": "home",
+	"deliveryEmployee": 2,
+	"$dateDelivery": 1567804800000,
+	"products": [
+		    	{"product": 1,
+		    	 "quantity": 2
+		    	},
+		    	{"product": 2,
+		    	 "quantity": 2
+		    	}
+		    ]
+}
+{
+	"_id": 2,
+	"shop": 2,
+	"$date": 1893324800000,
+	"delivery": "local",
+	"products": [
+		    	{"product": 3,
+		    	 "quantity": 1
+		    	},
+		    	{"product": 4,
+		    	 "quantity": 1
+		    	}
+		    ]
+}

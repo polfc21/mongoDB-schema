@@ -1,0 +1,28 @@
+{
+	"_id": 1,
+	"name": "Pepe",
+	"surname": "Botika",
+	"address": 
+		{"street": "Carrer de Pelai 12", 
+	 	 "building": "3º 2º",
+	 	 "city": 1,
+	 	 "province": 1,
+	 	 "zipcode": "08789"
+		}, 
+	"phone": "697201459",
+	"orders": [1,2]
+}
+{
+	"_id": 2,
+	"name": "Antonia",
+	"surname": "Scrum",
+	"address": 
+		{"street": "Avenida Madrid 512", 
+		 "building": "3º 4º",
+		 "city": 3,
+		 "province": 2,
+		 "zipcode": "12789"
+		}, 
+	"phone": "697235969",
+	"orders": [3]
+}

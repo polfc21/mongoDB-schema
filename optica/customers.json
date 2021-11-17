@@ -1,0 +1,27 @@
+{ 				  
+	"_id": 1,
+	"name": "Antoni Fernandes",
+	"address": {"street": "Carrer de Barcelona 308", 
+	      	    "building": "4º5º", 
+	            "zipcode": "68794",
+	            "city": "Lleida"
+	      	   }, 
+	"phone": "695412308", 
+	"mail": "mfern@mail.es",
+	"registryDate": {"$date": 1393804800000},
+	"vendor": 3
+}
+{ 
+	"_id": 2,
+	"name": "Manuela Gonzales",
+	"address": {"street": "Avinguda Diagonal 608", 
+	      	    "building": "4º", 
+	      	    "zipcode": "68703",
+	      	    "city": "Girona"
+	      	   }, 
+	"phone": "623412308", 
+	"mail": "mgons@mail.es",
+	"registryDate": {"$date": 1393804800000},
+	"vendor": 3,
+	"recommendationClient": 1
+}

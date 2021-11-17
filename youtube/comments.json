@@ -1,0 +1,27 @@
+{
+	"_id": 1,
+	"text": "Molt interessant el vídeo de MongoDB!",
+	"date": "20/04/2020",
+	"video": 2,
+	"user": 2,
+	"likes": [
+			{"user": 1, 
+			 "date": "25/04/2020"
+			}
+		 ]
+}
+{
+	"_id": 2,
+	"text": "Vídeo molt lent i amb poca informació de MongoDB",
+	"date": "11/01/2019",
+	"video": 2,
+	"user": 3,
+	"dislikes": [
+			{"user": 1, 
+			 "date": "17/02/2019"
+			},
+			{"user": 2, 
+			 "date": "15/03/2019"
+			}
+		    ]
+}

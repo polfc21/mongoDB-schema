@@ -1,0 +1,25 @@
+{
+	"_id": 1,
+	"start_date": "20/05/2021",
+	"renew_date": "20/11/2021",
+	"user": 1,
+	"payment": [
+				{"type": "Targeta de crèdit",
+				 "number_card": "425897445874",
+				 "month_expiration": "03",
+				 "year_expiration": "23",
+				 "cvc": "208"
+				}
+		   ]
+}
+{
+	"_id": 2,
+	"start_date": "17/01/2021",
+	"renew_date": "17/01/2022",
+	"user": 3,
+	"payment": [
+				{"type": "Paypal",
+				 "username": "jsoner99@paypal.com",
+				}
+		   ]
+}

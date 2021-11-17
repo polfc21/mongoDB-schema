@@ -1,0 +1,18 @@
+{
+	"_id": 1,
+	"address": 
+		{"street": "Carrer del Mig 22", 
+		 "city": 1,
+		 "province": 1,
+		 "zipcode": "08789"
+		}
+}
+{
+	"_id": 2,
+	"address": 
+		{"street": "Gran Vía 9", 
+		 "city": 3,
+		 "province": 2,
+		 "zipcode": "12389"
+		}
+}

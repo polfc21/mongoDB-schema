@@ -1,0 +1,16 @@
+{
+	"_id": 1,
+	"name": "Canal MongoDB",
+	"description": "Canal enfocat a l'aprenentatge de MongoDB",
+	"date": "15/03/2018",
+	"user": 1,
+	"subscriptors": [2,3]
+}
+{
+	"_id": 2,
+	"name": "Canal Música cubana",
+	"description": "Canal enfocat a vídeos musicals cubans",
+	"date": "15/03/2018",
+	"user": 2,
+	"subscriptors": [1,3]
+}

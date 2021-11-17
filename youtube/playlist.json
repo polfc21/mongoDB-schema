@@ -1,0 +1,8 @@
+{
+	"_id": 1,
+	"name": "Tutorial MongoDB per a principiants",
+	"date": "01/06/2018",
+	"state": "públic",
+	"user": 1,
+	"videos": [1,2] 
+}

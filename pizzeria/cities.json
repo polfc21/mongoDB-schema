@@ -1,0 +1,15 @@
+{
+	"_id": 1,
+	"name": "Barcelona",
+	"province": 1
+}
+{
+	"_id": 2,
+	"name": "Girona",
+	"province": 2
+}
+{
+	"_id": 3,
+	"name": "Hospitalet de Llobregat",
+	"province": 1
+}

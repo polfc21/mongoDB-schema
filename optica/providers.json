@@ -1,0 +1,27 @@
+{ 
+	"_id": 1,
+  	"name": "Suministros New York S.L",
+  	"nif": "45789845F", 
+  	"address": 
+  		{"street": "Carrer de Santa Joana d'Arc 30", 
+  	 	 "building": "1º 1º", "zipcode": "08794",
+  	 	 "zipcode": "95879",
+  	 	 "city": "Santa Coloma de Cervelló"
+  		}, 
+  	"phone": "697201459", 
+  	"mail": "faxopticayork@gmail.com"
+}
+{ 
+	"_id": 2,
+  	"name": "Suministros Los Ángeles S.L",
+  	"nif": "35729849P", 
+  	"address": 
+  		{"street": "Avinguda Karl Marx 22", 
+  	 	 "building": "2º", 
+  	 	 "zipcode": "68794",
+  	 	 "city": "Tàrrega"
+  		}, 
+  	"phone": "688201449", 
+  	"mail": "lakers@gmail.com"
+}
+

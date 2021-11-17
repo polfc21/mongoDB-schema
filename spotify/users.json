@@ -1,0 +1,41 @@
+{
+	"_id": 1,
+	"username": "polfc21",
+	"email": "polfarreny@gmail.com",
+	"password": "pass123",
+	"birth_date": "17/02/1997",
+	"gender": "Home",
+	"country": "Espanya",
+	"zipcode": "08780",
+	"type_user": "premium",
+	"playlists": [1,2],
+	"favorites_albums": [1,2,3],
+	"favorites_songs": [1,2,3,4]
+}
+{
+	"_id": 2,
+	"username": "cub321",
+	"email": "cub321@gmail.com",
+	"password": "pass321",
+	"birth_date": "25/10/1980",
+	"gender": "Dona",
+	"country": "Alemanya",
+	"zipcode": "15698",
+	"type_user": "free",
+	"playlists": [3],
+	"favorites_albums": [2,3],
+	"favorites_songs": [3,4]
+}
+{
+	"_id": 3,
+	"username": "jsoner99",
+	"email": "jasona99@gmail.com",
+	"password": "pass213",
+	"birth_date": "30/10/1999",
+	"gender": "Dona",
+	"country": "Rumania",
+	"zipcode": "96320",
+	"type_user": "premium",
+	"favorites_albums": [1],
+	"favorites_songs": [1,2]
+}

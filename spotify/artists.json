@@ -1,0 +1,17 @@
+{
+	"_id": 1,
+	"name": "Daddy Yankee",
+	"image": "/img/daddyyankee.jpg"
+}
+{
+	"_id": 2,
+	"name": "Estopa",
+	"image": "/img/estopa.jpg",
+	"related_artists": [3]
+}
+{
+	"_id": 3,
+	"name": "Los Delinqüentes",
+	"image": "/img/losdelinquentes.jpg",
+	"related_artists": [2]
+}

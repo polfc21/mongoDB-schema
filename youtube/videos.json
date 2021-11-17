@@ -1,0 +1,66 @@
+{
+	"_id": 1,
+	"title": "MongoDB 1",
+	"description": "Primer vídeo-tutorial de MongoDB",
+	"size" : 450,
+	"filename": "mongodb1.avi",
+	"duration": 660,
+	"thumbnail": "mongodb1.mp4",
+	"views": 1000,
+	"total_likes": 2,
+	"likes": [
+		 	{"user": 2,
+		 	 "date": "19/04/2019"
+		 	},
+		 	{"user": 3,
+		 	 "date": "25/08/2020"
+		 	}
+		 ],
+	"total_dislikes": 0,
+	"state": "privat", 
+	"user": 1,
+	"date": "20/03/2018",
+	"tags": [1,2,3]
+}
+{
+	"_id": 2,
+	"title": "MongoDB 2",
+	"description": "Segon vídeo-tutorial de MongoDB",
+	"size" : 500,
+	"filename": "mongodb2.avi",
+	"duration": 700,
+	"thumbnail": "mongodb2.mp4",
+	"views": 700,
+	"total_likes": 1,
+	"likes": [
+		 	{"user": 2,
+		 	 "date": "22/04/2019"
+		 	}
+		 ],
+	"total_dislikes": 1,
+	"dislikes": [
+		 	{"user": 3,
+		 	 "date": "14/09/2020"
+		 	}
+		 ],
+	"state": "ocult", 
+	"user": 1,
+	"date": "14/04/2018",
+	"tags": [1,2,3]
+}
+{
+	"_id": 3,
+	"title": "El malecón",
+	"description": "Cançó cubana",
+	"size" : 300,
+	"filename": "malecon.avi",
+	"duration": 264,
+	"thumbnail": "malecon.mp4",
+	"views": 1257253,
+	"total_likes": 0,
+	"total_dislikes": 0,
+	"state": "public", 
+	"user": 2,
+	"date": "03/05/2015",
+	"tags": [4,5]
+}

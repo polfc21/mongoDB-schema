@@ -1,0 +1,28 @@
+{
+	"_id": 1,
+	"title": "La gasolina",
+	"duration": 222,
+	"total_reproductions": 1125364789,
+	"album": 1
+}
+{
+	"_id": 2,
+	"title": "Salud y vida",
+	"duration": 189,
+	"total_reproductions": 1225364789,
+	"album": 1
+}
+{
+	"_id": 3,
+	"title": "Vino tinto",
+	"duration": 235,
+	"total_reproductions": 25364789,
+	"album": 2
+}
+{
+	"_id": 4,
+	"title": "El aire de la calle",
+	"duration": 215,
+	"total_reproductions": 5364789,
+	"album": 3
+}

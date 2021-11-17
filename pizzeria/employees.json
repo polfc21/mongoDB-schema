@@ -1,0 +1,32 @@
+{ 
+	"_id": 1,
+	"name": "Mariana",
+	"surname": "TDD",
+	"nif": "43564423L",
+	"phone": "695935969",
+	"category": "chef"
+}
+{ 
+	"_id": 2,
+	"name": "Mario",
+	"surname": "Mongo",
+	"nif": "43324193M",
+	"phone": "642135969",
+	"category": "delivery"
+}
+{ 
+	"_id": 3,
+	"name": "Antonio",
+	"surname": "Java",
+	"nif": "43237823T",
+	"phone": "691023869",
+	"category": "chef"
+}
+{ 
+	"_id": 4,
+	"name": "Antonia",
+	"surname": "Spring",
+	"nif": "43987192X",
+	"phone": "643655969",
+	"category": "delivery"
+}
